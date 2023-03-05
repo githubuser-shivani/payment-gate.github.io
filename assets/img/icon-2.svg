@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="86" viewBox="0 0 86 86">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="86" height="86" fill="#DBF5F4" rx="6"/>
+        <text fill="#00B7B1" font-family="Montserrat-Bold, Montserrat" font-size="16" font-weight="bold">
+            <tspan x="30" y="49">QR</tspan>
+        </text>
+        <rect width="43" height="43" x="21.5" y="21.5" stroke="#00B7B1" rx="6"/>
+    </g>
+</svg>
